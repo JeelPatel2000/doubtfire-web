@@ -93,7 +93,7 @@
     "@commitlint/cli": "^12.1.4",
     "@commitlint/config-conventional": "^12.1.4",
     "@types/d3": "^5.7.2",
-    "@types/file-saver": "^2.0.1",
+    "@types/file-saver": "^2.0.3",
     "@types/jasmine": "~2.8.6",
     "@types/jasminewd2": "~2.0.3",
     "@types/lodash": "^4.14.115",
